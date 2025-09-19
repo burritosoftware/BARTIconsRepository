@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "route_ids": ["1", "2"],
+      "icon": "/Yellow.svg"
+    },
+    {
+      "route_ids": ["3", "4"],
+      "icon": "/Orange.svg"
+    },
+    {
+      "route_ids": ["5", "6"],
+      "icon": "/Green.svg"
+    },
+    {
+      "route_ids": ["7", "8"],
+      "icon": "/Red.svg"
+    },
+    {
+      "route_ids": ["11", "12"],
+      "icon": "/Blue.svg"
+    },
+    {
+      "route_ids": ["19", "20"],
+      "icon": "/OAK.svg"
+    }
+  ]
+}
